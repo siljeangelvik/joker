@@ -1,0 +1,24 @@
+{
+  "name": "joker",
+  "version": "0.0.1",
+  "description": "environment setup at joker project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siljeangelvik/joker.git"
+  },
+  "keywords": [
+    "joker",
+    "environment",
+    "setup"
+  ],
+  "author": "Silje A-",
+  "license": "https://choosealicense.com/",
+  "bugs": {
+    "url": "https://github.com/siljeangelvik/joker/issues"
+  },
+  "homepage": "https://github.com/siljeangelvik/joker#readme"
+}
