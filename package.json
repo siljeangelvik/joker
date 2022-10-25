@@ -1,7 +1,8 @@
 {
   "name": "joker",
   "version": "0.0.1",
-  "description": "environment setup at joker project",
+  "description": "example",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
