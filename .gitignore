@@ -1,5 +1,7 @@
 # npm folders to ignore
 /node_modules
+.eslintcache
+
 # file: ~/.gitignore_global
 .DS_Store
 .idea
